@@ -24,3 +24,11 @@ tbody td.recipe {
 tbody td img {
   height: 150px;
 }
+
+.row.videoplayer {
+  text-align: center;
+}
+
+.row.footer {
+  text-align: center;
+}
