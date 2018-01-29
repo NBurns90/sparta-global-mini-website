@@ -31,4 +31,16 @@ tbody td img {
 
 .row.footer {
   text-align: center;
+  background: #EEEEEE;
+}
+
+.row.aboutmetext1 p {
+  color: green;
+  font-family: cursive;
+  font-weight: bolder;
+}
+
+.row.aboutmetext2 p {
+  color: pink;
+  font-size: 69px;
 }
