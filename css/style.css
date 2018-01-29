@@ -1,0 +1,46 @@
+.navbar-brand img {
+  height: 100%;
+}
+
+header.container-fluid {
+  margin: 0px;
+  padding: 0px;
+}
+
+.jumbotron.container-fluid {
+  text-align: center;
+  margin-top: 50px;
+}
+
+tbody td.images {
+  text-align: center;
+  width: 300px;
+}
+
+tbody td.recipe {
+  width: 250px;
+}
+
+tbody td img {
+  height: 150px;
+}
+
+.row.videoplayer {
+  text-align: center;
+}
+
+.row.footer {
+  text-align: center;
+  background: #EEEEEE;
+}
+
+.row.aboutmetext1 p {
+  color: green;
+  font-family: cursive;
+  font-weight: bolder;
+}
+
+.row.aboutmetext2 p {
+  color: pink;
+  font-size: 69px;
+}
