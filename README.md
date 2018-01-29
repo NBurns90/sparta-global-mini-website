@@ -1,6 +1,6 @@
-###Mini Website
+# Mini Website
 
-###Demonstrating HTML, CSS and Bootstrap
+### Demonstrating HTML, CSS and Bootstrap
 
 
 * Description of Task  
